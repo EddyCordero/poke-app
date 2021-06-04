@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+If you used a different URL [https://localhost:44302/](https://localhost:44302/) to your api, please change enviroment.js file
+
 ### `npm start`
 
 Runs the app in the development mode.\

@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.well{
+  margin-top: 30px;
+}
+
+.list-inline{
+  border-top: 1px solid #eee;
+  border-botom: 1px solid #eee;
+   margin-top:50px;
+  
+}
+
+.list-inline-item{
+  box-shadow: 1px 0 0 #eee;
+   magin: 0;
+  padding: 10px;
+  text-align: center;
+}
