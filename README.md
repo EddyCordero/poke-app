@@ -6,7 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+###For Run
 If you used a different URL [https://localhost:44302/](https://localhost:44302/) to your api, please change enviroment.js file
+Run npm install before npm start 
 
 ### `npm start`
 
